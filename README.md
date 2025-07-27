@@ -1,25 +1,29 @@
-# Getting Started
+# Sales Representatives Hierarchy App
 
-Welcome to your new project.
+This is a minimal CAP (Cloud Application Programming) project that lists sales representatives with a focus on showcasing their **hierarchical structure**.
 
-It contains these folders and files, following our recommended project layout:
+## 🚀 Features
 
-File or Folder | Purpose
----------|----------
-`app/` | content for UI frontends goes here
-`db/` | your domain models and data go here
-`srv/` | your service models and code go here
-`package.json` | project metadata and configuration
-`readme.md` | this getting started guide
+- Listing sales representatives
+- View the full hierarchy in a tree structure
 
+## 📦 Tech Stack
 
-## Next Steps
+- SAP CAP (Node.js)
+- CDS data model with self-referencing associations
 
-- Open a new terminal and run `cds watch`
-- (in VS Code simply choose _**Terminal** > Run Task > cds watch_)
-- Start adding content, for example, a [db/schema.cds](db/schema.cds).
+## 🧱 Core Concept
 
+The main purpose of this app is to **visualize the sales hierarchy** — how sales representatives are structured under their superiors, forming a tree-like organization.
 
-## Learn More
+## 📂 Structure
 
-Learn more at https://cap.cloud.sap/docs/get-started/.
+- `db/`: CDS data model for `SalesRepresentatives`
+- `srv/`: Service definitions
+- `app/`: Fiori for tree visualization
+
+## ▶️ Run the App
+
+```bash
+npm install
+cds watch
