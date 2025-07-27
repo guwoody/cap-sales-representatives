@@ -1,5 +1,5 @@
-ID;firstName;lastName;department;birthDate;email;phoneNumber;country_code;superior_ID;active
-6a3e8b2e-ffb2-4f89-8cb5-d2fcae4e6c91;Anna;Smith;Sales;1985-06-12;anna.smith@example.com;+351910000001;PT;;true
-9b12d705-a6af-41cf-9e27-8e7ec7bc95ad;Bob;Johnson;Sales;1990-09-25;bob.johnson@example.com;+351910000002;PT;6a3e8b2e-ffb2-4f89-8cb5-d2fcae4e6c91;true
-42c59f5b-2082-4dd1-bd52-2e69e3e38d5e;Carla;Santos;Marketing;1988-04-17;carla.santos@example.com;+351910000003;PT;;true
-0d35485c-58a2-4c5e-a07b-b844e07a6d48;Daniel;Rocha;Sales;1992-11-10;daniel.rocha@example.com;+351910000004;PT;6a3e8b2e-ffb2-4f89-8cb5-d2fcae4e6c91;true
+ID;firstName;lastName;birthDate;email;phoneNumber;country_code;superior_ID;active
+6a3e8b2e-ffb2-4f89-8cb5-d2fcae4e6c91;Anna;Smith;1985-06-12;anna.smith@example.com;+351910000001;PT;;true
+9b12d705-a6af-41cf-9e27-8e7ec7bc95ad;Bob;Johnson;1990-09-25;bob.johnson@example.com;+351910000002;PT;6a3e8b2e-ffb2-4f89-8cb5-d2fcae4e6c91;true
+42c59f5b-2082-4dd1-bd52-2e69e3e38d5e;Carla;Santos;1988-04-17;carla.santos@example.com;+351910000003;PT;;true
+0d35485c-58a2-4c5e-a07b-b844e07a6d48;Daniel;Rocha;1992-11-10;daniel.rocha@example.com;+351910000004;PT;6a3e8b2e-ffb2-4f89-8cb5-d2fcae4e6c91;true
